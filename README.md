@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Cephas Tay 👋
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there,+I'm+Cephas+Tay+%F0%9F%91%8B&font=Fira+Code&weight=700&center=true&width=500&height=60&color=9370DB" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-008B8B?style=for-the-badge&logo=backend&logoColor=white" alt="Backend Developer" />
