@@ -8,16 +8,20 @@
 
 ###  About Me
 
-I’m a junior backend developer with a background in mechanical engineering, now immersed in the world of software engineering. After completing the **ALX Africa Software Engineering Program**, I joined the **ALX ProDev Engineering Program**, focusing on advanced topics like CI/CD, Docker, and systems design.
+I’m a learner and aspiring backend developer with a background in mechanical engineering, now diving into the world of software engineering. 
+I’m currently progressing through the ALX Africa Software Engineering Program [ProDev BackEnd Web Development](https://www.alxafrica.com/wp-content/uploads/2024/11/ProDev-Back-End-Catalogue_compressed.pdf), 
+exploring the fundamentals of backend development, and building my skills step by step.
 
-I enjoy building clean, efficient, and scalable backend systems. What drives me is the excitement of solving problems, collaborating with others, learning new tools, and constantly improving. My journey into tech started with curiosity and it’s fueled by purpose.
-
+I’m passionate about understanding how backend systems work, solving problems, and learning new tools. 
+What drives me is curiosity, the challenge of figuring things out, and the excitement of gradually turning ideas into functioning code. 
+My journey into tech started from a place of interest, and I’m motivated by the growth and possibilities ahead.
 ---
 
 ###  Tech Stack & Tools
 
 ####  Programming Languages  
-- Python (OOP), JavaScript  
+- Python (OOP), JavaScript
+- 
 
 ####  Backend Development  
 - Django, Django Rest Framework (DRF)
