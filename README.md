@@ -2,7 +2,12 @@
 
 # Hi there, I'm Cephas Tay 👋
 
-*Backend Developer | Lifelong Learner | Anime & Manga Enthusiast*
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Developer-008B8B?style=for-the-badge&logo=backend&logoColor=white" alt="Backend Developer" />
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-008B8B?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Lifelong Learner" />
+  <img src="https://img.shields.io/badge/Anime%20%26%20Manga%20Enthusiast-008B8B?style=for-the-badge&logo=discord&logoColor=white" alt="Anime & Manga Enthusiast" />
+</p>
+
 
 ---
 
@@ -13,6 +18,9 @@ I’m a learner and aspiring backend developer with a background in mechanical e
 I’m passionate about understanding backend systems, solving problems, and learning new tools. Curiosity and turning ideas into working code drive me forward.
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enamyaovi" alt="Trophies" />
+</p>
 
 ## Tech Stack & Tools
 
@@ -20,16 +28,15 @@ I’m passionate about understanding backend systems, solving problems, and lear
 |--------|--------|-----|--------|-------|------------|
 | <img src="public/logos/technology/python/python.svg" width="50"> | <img src="public/logos/technology/django/django.svg" width="50"> | <img src="public/logos/technology/drf/drf.svg" width="50"> | <img src="public/logos/technology/swagger/swagger.svg" width="50"> | <img src="public/logos/technology/mysql/mysql.svg" width="50"> | <img src="public/logos/technology/postgresql/postgresql.svg" width="50"> |
 
-| SQLite | PyTest | Git | GitHub | Docker | Linux CLI |
-|--------|-------|-----|--------|-------|----------|
-| <img src="public/logos/technology/sqlite/sqlite.svg" width="50"> | <img src="public/logos/technology/pytest/pytest.svg" width="50"> | <img src="public/logos/technology/git/git.svg" width="50"> | <img src="public/logos/technology/github/github.svg" width="50"> | <img src="public/logos/technology/docker/docker.webp" width="50"> | <img src="public/logos/technology/linux/linux.svg" width="50"> |
+| SQLite | PyTest | Git | GitHub | Docker |
+|--------|-------|-----|--------|-------|
+| <img src="public/logos/technology/sqlite/sqlite.svg" width="50"> | <img src="public/logos/technology/pytest/pytest.svg" width="50"> | <img src="public/logos/technology/git/git.svg" width="50"> | <img src="public/logos/technology/github/github.svg" width="50"> | <img src="public/logos/technology/docker/docker.webp" width="50"> |
 
-| Bash | Kubernetes |
-|------|------------|
-| <img src="public/logos/technology/bash/bash.svg" width="50"> | <img src="public/logos/technology/kubernetes/kubernetes.svg" width="50"> |
+| Linux CLI | Bash | Kubernetes |
+|-----------|------|------------|
+| <img src="public/logos/technology/linux/linux.svg" width="50"> | <img src="public/logos/technology/bash/bash.svg" width="50"> | <img src="public/logos/technology/kubernetes/kubernetes.svg" width="50"> |
 
 ---
-
 ## Projects I'm Proud Of
 
 <table align="center">
@@ -120,6 +127,13 @@ I’m a huge fan of manga and anime, especially **Berserk** and **Kingdom**. The
 
 ---
 
+|  |  |  |
+|--|--|--|
+| <img src="https://github-readme-stats.vercel.app/api?username=enamyaovi&show_icons=true&locale=en" width="350"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enamyaovi&show_icons=true" width="350"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=enamyaovi" width="350"/> |
+| GitHub Stats | Top Languages | Streak Stats |
+
+
+---
 Icons used in this project are from [dheereshagrwal's GitHub repo](https://github.com/dheereshagrwal/coloured-icons).
 
 </div>
