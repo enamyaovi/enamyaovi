@@ -134,6 +134,11 @@ I’m a huge fan of manga and anime, especially **Berserk** and **Kingdom**. The
 
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enamyaovi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 Icons used in this project are from [dheereshagrwal's GitHub repo](https://github.com/dheereshagrwal/coloured-icons).
 
 </div>
