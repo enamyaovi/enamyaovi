@@ -15,6 +15,7 @@ exploring the fundamentals of backend development, and building my skills step b
 I’m passionate about understanding how backend systems work, solving problems, and learning new tools. 
 What drives me is curiosity, the challenge of figuring things out, and the excitement of gradually turning ideas into functioning code. 
 My journey into tech started from a place of interest, and I’m motivated by the growth and possibilities ahead.
+
 ---
 
 ###  Tech Stack & Tools
